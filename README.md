@@ -16,7 +16,7 @@
 
 - 🌐 &nbsp; Frontend <br />
   ![Angular](https://img.shields.io/badge/-Angular-155fa9?style=for-the-badge&logo=angular&logoColor=de3641&labelColor=fff)
-  ![Ionic](https://img.shields.io/badge/-Ionic-155fa9?style=for-the-badge&logo=ionic&logoColor=lightblue&labelColor=fff)
+  ![Ionic](https://img.shields.io/badge/-Ionic-fff?style=for-the-badge&logo=ionic&logoColor=3976f7&labelColor=fff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=8E2DE2)
   ![HTML5](https://img.shields.io/badge/html%205-fff?style=for-the-badge&logo=html5&logoColor=e96228&labelColor=fff)
   ![CSS3](https://img.shields.io/badge/css%203-fff?style=for-the-badge&logo=css3&logoColor=254bdd&labelColor=fff)
