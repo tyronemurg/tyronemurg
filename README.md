@@ -43,4 +43,4 @@
 ## 📈 Github Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyronemurg&layout=compact&text_color=daf7dc&bg_color=151515)
-<!--![Stats](https://github-readme-stats.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)-->
+![Stats](https://github-readme-stats.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)
