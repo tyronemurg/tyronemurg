@@ -1,4 +1,4 @@
-# Ahoy! I'm Ty 👋
+# Ahoy! I'm Ty 🤘
 
 ## 👨🏻‍💻 About Me
 
