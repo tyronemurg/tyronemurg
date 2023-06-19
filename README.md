@@ -22,12 +22,12 @@
   ![CSS3](https://img.shields.io/badge/css%203-fff?style=for-the-badge&logo=css3&logoColor=254bdd&labelColor=fff)
   ![Material Design](https://img.shields.io/badge/-Material%20Design-004a77?style=for-the-badge&logo=material-design&logoColor=004a77&labelColor=fff)
   ![Sass](https://img.shields.io/badge/sass-c66394?style=for-the-badge&logo=sass&logoColor=white&labelColor=c66394)
-  ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-fff?style=for-the-badge&logo=socket.io&logoColor=000&labelColor=fff)
+  <!-- ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-fff?style=for-the-badge&logo=socket.io&logoColor=000&labelColor=fff) -->
 
 - 💻 &nbsp; Backend <br />
   ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
-  ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff)
+  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff) -->
   ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=for-the-badge&logo=laravel&logoColor=f70000&labelColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7377ad)
 
