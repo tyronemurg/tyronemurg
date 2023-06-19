@@ -16,8 +16,9 @@
 
 - 🌐 &nbsp; Frontend <br />
   ![Angular](https://img.shields.io/badge/-Angular-155fa9?style=for-the-badge&logo=angular&logoColor=de3641&labelColor=fff)
-  ![Ionic](https://img.shields.io/badge/-Ionic-fff?style=for-the-badge&logo=ionic&logoColor=3976f7&labelColor=fff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=8E2DE2)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
+  ![Ionic](https://img.shields.io/badge/-Ionic-fff?style=for-the-badge&logo=ionic&logoColor=3976f7&labelColor=fff)
   ![HTML5](https://img.shields.io/badge/html%205-fff?style=for-the-badge&logo=html5&logoColor=e96228&labelColor=fff)
   ![CSS3](https://img.shields.io/badge/css%203-fff?style=for-the-badge&logo=css3&logoColor=254bdd&labelColor=fff)
   ![Material Design](https://img.shields.io/badge/-Material%20Design-004a77?style=for-the-badge&logo=material-design&logoColor=004a77&labelColor=fff)
@@ -28,7 +29,6 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=for-the-badge&logo=laravel&logoColor=f70000&labelColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7377ad)
   ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff) -->
 
 - 🛢 &nbsp; Databases <br />
