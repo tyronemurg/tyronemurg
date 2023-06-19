@@ -25,10 +25,10 @@
   <!-- ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-fff?style=for-the-badge&logo=socket.io&logoColor=000&labelColor=fff) -->
 
 - 💻 &nbsp; Backend <br />
-  ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
   ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=for-the-badge&logo=laravel&logoColor=f70000&labelColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7377ad)
+  ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff) -->
 
 - 🛢 &nbsp; Databases <br />
