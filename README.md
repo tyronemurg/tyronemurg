@@ -27,9 +27,9 @@
 - 💻 &nbsp; Backend <br />
   ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
-  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff) -->
   ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=for-the-badge&logo=laravel&logoColor=f70000&labelColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7377ad)
+  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff) -->
 
 - 🛢 &nbsp; Databases <br />
   ![MySQL](https://img.shields.io/badge/-MySQL-dd8800?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=005e86)
