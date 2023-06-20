@@ -40,6 +40,7 @@
   ![VS Code](https://img.shields.io/badge/-VS%20Code-fff?style=for-the-badge&logo=visual-studio-code&logoColor=fff&labelColor=36a2ee)
   ![XD](https://img.shields.io/badge/-Adobe%20XD-fff?style=for-the-badge&logo=adobe&logoColor=fff&labelColor=450135)
   ![Figma](https://img.shields.io/badge/-Figma-ea4c1d?style=for-the-badge&logo=figma&logoColor=white&labelColor=19b6f6)
+  ![Clickup](https://img.shields.io/badge/-Clickup-ea4c1d?style=for-the-badge&logo=clickup&logoColor=white&labelColor=19b6f6)
 
 ## 📈 Github Stats
 
