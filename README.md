@@ -1,16 +1,16 @@
-# Ahoy! I'm Ty 🤘
+# Ahoy! I am Ty 🤘
 
 ## 👨🏻‍💻 About Me
 
-- 🏆 &nbsp; I’m currently working on Angular, Ionic, Laravel, PHP & Web + Application Development.
+- 🏆 &nbsp; I am currently working on Angular, Ionic, Laravel, PHP & Web + Application Development.
 - 🌱 &nbsp; Exploring new technologies and developing features & solutions.
 - 🎓 &nbsp; I have a Bachelors degree in Computer Science (Bsc)
 - 💼 &nbsp; I work as a Fullstack Developer.
 - 💪 &nbsp; Warrior in Custom Wordpress, Angular, Bootstrap, PHP and Web Technologies in general.
-- ⚡ &nbsp; Dedicated to slick modern user-friendly design and I am committed to writing well architectured, clean and maintainable code.
 - 😎 &nbsp; My interests: Love gaming 🎮, reading comics 📖 and boxing 👊
 - 💻 &nbsp; How to reach me: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tyronemurg.svg?style=social&label=Follow%20tyronemurg)](https://twitter.com/tyronemurg) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20On)](https://www.linkedin.com/in/tyrone-murgatroyd-96a796136/)
 - 🌐 &nbsp; Website: https://webwarrior.co.za/
+<!-- - ⚡ &nbsp; Dedicated to slick modern user-friendly design and I am committed to writing well architectured, clean and maintainable code.-->
 
 
 ## 🛠 Tech Stack
