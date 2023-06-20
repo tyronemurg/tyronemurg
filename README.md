@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🏆 &nbsp; I am currently working on Angular, Ionic, Laravel, PHP & Web + Application Development.
-- 🌱 &nbsp; Exploring new technologies and developing features & solutions.
+- 🌱 &nbsp; Growth in cutting edge tech and developing features & solutions.
 - 🎓 &nbsp; I have a Bachelors degree in Computer Science (Bsc)
 - 💼 &nbsp; I work as a Fullstack Developer.
 - 💪 &nbsp; Warrior in Custom Wordpress, Angular, Bootstrap, PHP and Web Technologies in general.
