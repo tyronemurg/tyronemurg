@@ -47,3 +47,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tyronemurg&exclude_repo=bootstrap5-custom-wordpress-theme,trash-removal-application,pusherweb&layout=compact&text_color=daf7dc&bg_color=151515)
 ![Stats](https://github-readme-stats.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tyronemurg&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
