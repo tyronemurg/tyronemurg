@@ -26,7 +26,7 @@
   ![Sass](https://img.shields.io/badge/sass-c66394?style=for-the-badge&logo=sass&logoColor=white&labelColor=c66394)
   <!-- ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-fff?style=for-the-badge&logo=socket.io&logoColor=000&labelColor=fff) -->
 
-- 💻 &nbsp; Backend <br />
+💻 &nbsp; Backend <br />
   ![Laravel](https://img.shields.io/badge/-Laravel-fff?style=for-the-badge&logo=laravel&logoColor=f70000&labelColor=fff)
   ![PHP](https://img.shields.io/badge/-PHP-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=7377ad)
   ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
