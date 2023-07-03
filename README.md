@@ -45,10 +45,8 @@
   ![Clickup](https://img.shields.io/badge/-Clickup-ffb21c?style=for-the-badge&logo=clickup&logoColor=fff&labelColor=ff16d8)
 
 ## 📈 Github Stats
-<div style="width:100%;">
   <!--![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tyronemurg&exclude_repo=bootstrap5-custom-wordpress-theme,trash-removal-application,pusherweb&layout=compact&text_color=daf7dc&bg_color=151515)-->
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515)
 
 <img style="border:1px solid #fff;" src="https://github-readme-streak-stats.herokuapp.com/?user=tyronemurg&stroke=ffffff&background=151515&ring=41df4c&fire=41df4c&currStreakNum=41df4c&currStreakLabel=41df4c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
-</div>
 
