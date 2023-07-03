@@ -32,11 +32,11 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2f74c0)
   <!-- ![Node.js](https://img.shields.io/badge/-Node.js-3e863d?style=for-the-badge&logo=node.js&logoColor=3e863d&labelColor=fff) -->
 
-- 🛢 &nbsp; Databases <br />
+🛢 &nbsp; Databases <br />
   ![MySQL](https://img.shields.io/badge/-MySQL-dd8800?style=for-the-badge&logo=mysql&logoColor=fff&labelColor=005e86)
   ![MongoDB](https://img.shields.io/badge/-Mongodb-fff?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=429644)
 
-- 🔧 &nbsp; IDE & Tools <br />
+🔧 &nbsp; IDE & Tools <br />
   ![VS Code](https://img.shields.io/badge/-VS%20Code-fff?style=for-the-badge&logo=visual-studio-code&logoColor=fff&labelColor=36a2ee)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-fff?style=for-the-badge&logo=android-studio&logoColor=fff&labelColor=52f093)
   ![XD](https://img.shields.io/badge/-Adobe%20XD-fff?style=for-the-badge&logo=adobe&logoColor=fff&labelColor=450135)
