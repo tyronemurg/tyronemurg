@@ -1,6 +1,6 @@
 # Ahoy! I am Ty 🤘
 
-## 👨🏻‍💻 About Me
+#👨🏻‍💻 About Me
 
 🏆 &nbsp; My current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.
 - 🌱 &nbsp; Growth in cutting edge tech and developing features & solutions.
