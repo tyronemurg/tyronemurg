@@ -4,12 +4,12 @@
 
 🏆 &nbsp; My current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br />
 🌱 &nbsp; Growth in cutting edge tech and developing features & solutions.<br />
-🎓 &nbsp; I have a Bachelors degree in Computer Science (Bsc)
-💼 &nbsp; I work as a Fullstack Developer.
-💪 &nbsp; Warrior in Custom Wordpress, Headless CMS, Angular, Bootstrap, PHP and Web Technologies in general.
-😎 &nbsp; My interests: Love gaming 🎮, reading comics 📖 and boxing 👊
-💻 &nbsp; Follow or Connect: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tyronemurg.svg?style=social&label=Follow%20tyronemurg)](https://twitter.com/tyronemurg) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20On)](https://www.linkedin.com/in/tyrone-murgatroyd-96a796136/)
-🌐 &nbsp; Website: https://webwarrior.co.za/
+🎓 &nbsp; I have a Bachelors degree in Computer Science (Bsc)<br />
+💼 &nbsp; I work as a Fullstack Developer.<br />
+💪 &nbsp; Warrior in Custom Wordpress, Headless CMS, Angular, Bootstrap, PHP and Web Technologies in general.<br />
+😎 &nbsp; My interests: Love gaming 🎮, reading comics 📖 and boxing 👊<br />
+💻 &nbsp; Follow or Connect: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tyronemurg.svg?style=social&label=Follow%20tyronemurg)](https://twitter.com/tyronemurg) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20On)](https://www.linkedin.com/in/tyrone-murgatroyd-96a796136/) <br />
+🌐 &nbsp; Website: https://webwarrior.co.za/ <br />
 <!-- ⚡ &nbsp; Dedicated to slick modern user-friendly design and I am committed to writing well architectured, clean and maintainable code.-->
 
 
