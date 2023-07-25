@@ -6,7 +6,7 @@
 🎓 &nbsp; My highest qualification is a Bachelors degree in Computer Science (Bsc)<br />
 💼 &nbsp; I work as a Fullstack Developer.<br />
 💪 &nbsp; Warrior in Custom Wordpress, Headless CMS, Angular, Bootstrap, PHP and Web Technologies.<br />
-😎 &nbsp; I enjoy gaming 🎮, reading comics 📖 and boxing 👊<br />
+😎 &nbsp; My hobbies are gaming 🎮, reading comics 📖 and boxing 👊<br />
 💻 &nbsp; Follow me on Twitter: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/tyronemurg.svg?style=social&label=Follow%20tyronemurg)](https://twitter.com/tyronemurg) Connect on Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=social&style=flat&logo=linkedin&labelColor=blue&label=Connect%20On)](https://www.linkedin.com/in/tyrone-murgatroyd-96a796136/) <br />
 🌐 &nbsp; Website: https://webwarrior.co.za/ <br />
 <!-- ⚡ &nbsp; Dedicated to slick modern user-friendly design and I am committed to writing well architectured, clean and maintainable code.-->
