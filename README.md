@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 About Me
 
-🏆 &nbsp; Current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br />  
+🏆 &nbsp; Current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br /> 
 🎓 &nbsp; My highest qualification is a Bachelors degree in Computer Science (Bsc)<br />
 💼 &nbsp; I work as a Full stack Developer.<br />
 💪 &nbsp; Warrior in Custom Wordpress, Headless CMS, Angular, Bootstrap, PHP and Web Technologies.<br />
