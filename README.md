@@ -1,5 +1,4 @@
 # Ahoy! I am Ty 🤘
-<p align="center"> # Ahoy! I am Ty 🤘</p>
 
 ## 👨🏻‍💻 About Me
 
