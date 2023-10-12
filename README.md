@@ -18,10 +18,7 @@
 <code><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
 <code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
- <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix" alt="tyronemurg" /></p>
   
-
-
 ## 🛠 Tech Stack
 
 🌐 &nbsp; Frontend <br />
@@ -62,16 +59,10 @@
     <td valign="top"><img style="border:1px solid #fff;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515&width=400"/></td>
   </tr>
 </table>
-<table>
-  <tr>
-    <td valign="top">
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyronemurg&theme=hacker)](https://git.io/streak-stats)    
-  </td>
-    <td valign="top">
 [![trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg))
- </td>
-  </tr>
-</table>
+
 
 
 <img alt="Ty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tyronemurg&bg_color=151515&color=41df4c&line=41df4c&point=false&hide_border=false" />
