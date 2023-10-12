@@ -21,7 +21,7 @@
 
 ## 👨🏻‍💻 Github Tropheys
 
-<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix&no-frame=true)"><img src="https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix" alt="tyronemurg" /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix&no-frame=true&title=MultiLanguage,Commits,Experience,PullRequest,Stars,Followers,Repositories)"><img src="https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix" alt="tyronemurg" /></a> </p>
 
 ## 🛠 Tech Stack
 
