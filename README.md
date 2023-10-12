@@ -62,9 +62,18 @@
     <td valign="top"><img style="border:1px solid #fff;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515&width=400"/></td>
   </tr>
 </table>
+<table>
+  <tr>
+    <td valign="top">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tyronemurg&theme=hacker)](https://git.io/streak-stats)    
+  </td>
+    <td valign="top">
+[![trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg))
+ </td>
+  </tr>
+</table>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tyronemurg&theme=hacker)](https://git.io/streak-stats)
 <img alt="Ty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tyronemurg&bg_color=151515&color=41df4c&line=41df4c&point=false&hide_border=false" />
 <!--<img alt="Ty's streak" src="https://streak-stats.demolab.com/?user=tyronemurg&theme=monokai-metallian&hide_border=false"/>-->
 <!--<img style="border:1px solid #fff;" src="https://github-readme-streak-stats.herokuapp.com/?user=tyronemurg&stroke=ffffff&background=151515&ring=41df4c&fire=41df4c&currStreakNum=41df4c&currStreakLabel=41df4c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />-->
