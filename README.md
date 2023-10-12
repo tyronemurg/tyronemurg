@@ -61,7 +61,7 @@
 </table>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tyronemurg&theme=hacker)](https://git.io/streak-stats)    
-[![trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg)]([https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg))
+[![trophy](https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix)](https://github-profile-trophy.vercel.app/?username=tyronemurg&theme=matrix)
 
 
 
