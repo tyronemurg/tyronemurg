@@ -1,7 +1,10 @@
-# Ahoy! I am Ty 🤘
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00cc00:1a591a:06a55d,100:06a55d&height=250&section=header&text=Ty%20The%20Web%20Warrior%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Ahoy+Fellow+Developers!;I+am+Ty+the+Web+Warrior!;&font=Fira%20Code&color=%00cc00&center=true&width=280&height=50">
+</p>
 
 ## 👨🏻‍💻 About Me
-
+# Ahoy! I am Ty 🤘
 🏆 &nbsp; Current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br /> 
 🎓 &nbsp; My highest qualification is a Bachelors degree in Computer Science (Bsc)<br />
 💼 &nbsp; I work as a Full stack Developer.<br />
