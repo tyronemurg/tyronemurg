@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00cc00:1a591a:06a55d,100:06a55d&height=250&section=header&text=Ty%20The%20Web%20Warrior%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00cc00:1a591a:06a55d,100:06a55d&height=250&section=header&text=Ty%20the%20Web%20Warrior%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ahoy!+Welcome+to+Web+Warrior!;Scope+out+some+of+my+recent+work!&font=Fira%20Code&color=18b307&center=true&width=500&height=50%22">
 </p>
