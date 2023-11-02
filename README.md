@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ahoy!+Welcome+to+Web+Warrior!;Scope+out+some+of+my+recent+work!&font=Fira%20Code&color=18b307&center=true&width=500&height=50%22">
 </p>
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 ## 👨🏻‍💻 About Me
 ## Ahoy! I am Ty 🤘
