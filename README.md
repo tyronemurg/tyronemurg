@@ -4,7 +4,7 @@
 </p>
 
 ## 👨🏻‍💻 About Me
-## Ahoy! I am Ty 🤘
+<!-- ## Ahoy! I am Ty 🤘 -->
 🏆 &nbsp; Current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br /> 
 🎓 &nbsp; My highest qualification is a Bachelors degree in Computer Science (Bsc)<br />
 💼 &nbsp; I work as a Full stack Developer.<br />
