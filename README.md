@@ -2,6 +2,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ahoy!+Welcome+to+Web+Warrior!;Scope+out+some+of+my+recent+work!&font=Fira%20Code&color=18b307&center=true&width=500&height=50%22">
 </p>
+
 ## 👨🏻‍💻 About Me
 ## Ahoy! I am Ty 🤘
 🏆 &nbsp; Current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br /> 
