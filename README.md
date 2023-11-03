@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Ahoy!+Welcome+to+Web+Warrior!;Scope+out+some+of+my+recent+work!&font=Fira%20Code&color=18b307&center=true&width=500&height=50%22">
 </p>
 <p align="center" style="color:#18b307">
-    Profile Visitors
-    <img src="https://profile-counter.glitch.me/tyronemurg/count.svg">
+    Profile Visitors<br>
+    <img src="https://profile-counter.glitch.me/tyronemurg/count.svg" />
 </p>
 ## 👨🏻‍💻 About Me
 <!-- ## Ahoy! I am Ty 🤘 -->
