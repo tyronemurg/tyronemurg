@@ -5,6 +5,7 @@
 <p align="center">
     <img src="https://profile-counter.glitch.me/tyronemurg/count.svg" />
 </p>
+
 ## 👨🏻‍💻 About Me
 <!-- ## Ahoy! I am Ty 🤘 -->
 🏆 &nbsp; Current tech stack is working with Angular, Ionic, Laravel, PHP, Custom Wordrpess & Web + Application Development.<br /> 
