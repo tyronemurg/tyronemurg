@@ -71,9 +71,9 @@
   </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tyronemurg&theme=hacker)](https://git.io/streak-stats)    
-
 <img alt="Ty's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=tyronemurg&bg_color=151515&color=41df4c&line=41df4c&point=false&hide_border=false" />
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tyronemurg&theme=hacker)](https://git.io/streak-stats)    
 <!--<img alt="Ty's streak" src="https://streak-stats.demolab.com/?user=tyronemurg&theme=monokai-metallian&hide_border=false"/>-->
 <!--<img style="border:1px solid #fff;" src="https://github-readme-streak-stats.herokuapp.com/?user=tyronemurg&stroke=ffffff&background=151515&ring=41df4c&fire=41df4c&currStreakNum=41df4c&currStreakLabel=41df4c&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />-->
 <!--<img style="border:1px solid #fff;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyronemurg&exclude_repo=bootstrap5-custom-wordpress-theme,trash-removal-application,pusherweb&layout=compact&text_color=daf7dc&bg_color=151515" />-->
