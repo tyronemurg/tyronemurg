@@ -39,11 +39,11 @@
   ![Angular](https://img.shields.io/badge/-Angular-155fa9?style=for-the-badge&logo=angular&logoColor=de3641&labelColor=fff)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-grey?style=for-the-badge&logo=Bootstrap&logoColor=white&labelColor=8E2DE2)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-f7d246?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7d246)
-  ![React](https://img.shields.io/badge/-React-fff?style=for-the-badge&logo=react&logoColor=3976f7&labelColor=fff)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-fff?style=for-the-badge&logo=react&logoColor=3976f7&labelColor=fff)
   ![Ionic](https://img.shields.io/badge/-Ionic-fff?style=for-the-badge&logo=ionic&logoColor=3976f7&labelColor=fff)
   ![HTML5](https://img.shields.io/badge/html%205-fff?style=for-the-badge&logo=html5&logoColor=e96228&labelColor=fff)
   ![CSS3](https://img.shields.io/badge/css%203-fff?style=for-the-badge&logo=css3&logoColor=254bdd&labelColor=fff)
-  ![Material Design](https://img.shields.io/badge/-Material%20Design-004a77?style=for-the-badge&logo=material-design&logoColor=004a77&labelColor=fff)
+  ![SwiperJS](https://img.shields.io/badge/-Swiper-000?style=for-the-badge&logo=material-design&logoColor=000&labelColor=fff)
   ![Sass](https://img.shields.io/badge/sass-c66394?style=for-the-badge&logo=sass&logoColor=white&labelColor=c66394)
   <!-- ![Web Sockets](https://img.shields.io/badge/-Web%20Sockets-fff?style=for-the-badge&logo=socket.io&logoColor=000&labelColor=fff) -->
 
