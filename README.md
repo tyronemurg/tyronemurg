@@ -71,7 +71,7 @@
 <table>
   <tr>
     <td valign="top"><img style="border:1px solid #fff;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyronemurg&exclude_repo=bootstrap,bootstrap5-custom-wordpress-theme,trash-removal-application,pusherweb&layout=compact&text_color=daf7dc&bg_color=151515&width=400"/></td>
-    <td valign="top"><img style="border:1px solid #fff;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515&width=400"/></td>
+    <td valign="top"><img style="border:1px solid #fff;" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tyronemurg&include_all_commits=true&count_private=true&show_icons=true&line_height=20&text_color=daf7dc&bg_color=151515&hide=contribs&width=400"/></td>
   </tr>
 </table>
 
